@@ -1,0 +1,9 @@
+D:\rider\publish\Lab11AlanParrillo.API.exe
+D:\rider\publish\appsettings.Development.json
+D:\rider\publish\appsettings.json
+D:\rider\publish\Lab11AlanParrillo.API.dll
+D:\rider\publish\Lab11AlanParrillo.API.deps.json
+D:\rider\publish\Lab11AlanParrillo.API.runtimeconfig.json
+D:\rider\publish\Lab11AlanParrillo.API.pdb
+D:\rider\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\rider\publish\Microsoft.OpenApi.dll
